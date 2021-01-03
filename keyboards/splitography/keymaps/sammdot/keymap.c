@@ -17,18 +17,13 @@
 
 #include "config.h"
 #include "splitography.h"
-#include "action_layer.h"
 #include "keymap_steno.h"
-#include "eeconfig.h"
-
-extern keymap_config_t keymap_config;
 
 enum splitography_layers {
   _GEMINI = 0,
   _END_LAYERS
 };
 
-#define ___x___ KC_TRNS
 #ifdef _______
 #undef _______
 #endif
