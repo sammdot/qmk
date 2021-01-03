@@ -1,5 +1,5 @@
 // clang-format off
-/* Copyright 2021-2021 Sammi De Guzman
+/* Copyright 2020-2021 Sammi De Guzman
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
